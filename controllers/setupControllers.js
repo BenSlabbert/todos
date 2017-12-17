@@ -5,61 +5,61 @@ module.exports = function ( app ) {
         // data from: https://www.json-generator.com/
         let starterTodos = [
             {
-                "username": "Amie",
+                "username": "test",
                 "todo": "commodo irure non voluptate ex",
                 "isDone": true,
                 "hasAttachment": true
             },
             {
-                "username": "Carolyn",
+                "username": "test",
                 "todo": "minim commodo eiusmod exercitation deserunt",
                 "isDone": false,
                 "hasAttachment": false
             },
             {
-                "username": "Diaz",
+                "username": "test",
                 "todo": "in aliqua sunt culpa irure",
                 "isDone": false,
                 "hasAttachment": true
             },
             {
-                "username": "Tammy",
+                "username": "v",
                 "todo": "sit eiusmod adipisicing dolore et",
                 "isDone": false,
                 "hasAttachment": true
             },
             {
-                "username": "Luella",
+                "username": "test",
                 "todo": "aliqua elit cillum dolore enim",
                 "isDone": false,
                 "hasAttachment": true
             },
             {
-                "username": "Hess",
+                "username": "test",
                 "todo": "in aute ipsum eiusmod veniam",
                 "isDone": false,
                 "hasAttachment": true
             },
             {
-                "username": "Valeria",
+                "username": "test",
                 "todo": "aute proident sunt non Lorem",
                 "isDone": true,
                 "hasAttachment": true
             },
             {
-                "username": "Nikki",
+                "username": "test",
                 "todo": "amet exercitation anim et officia",
                 "isDone": true,
                 "hasAttachment": true
             },
             {
-                "username": "Leona",
+                "username": "test",
                 "todo": "excepteur nulla Lorem cillum nostrud",
                 "isDone": true,
                 "hasAttachment": false
             },
             {
-                "username": "Colon",
+                "username": "test",
                 "todo": "veniam velit exercitation ad dolore",
                 "isDone": true,
                 "hasAttachment": true
